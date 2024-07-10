@@ -1,7 +1,7 @@
 ### Olá eu sou o Arildo Horacio Pereira,seja bem vindo ao meu perfil do Github 😊
 
 - 🌱 estudando desenvolvedor front-end
-- 📫 contate-me pelo email arildohp@gmail.como ou whastapp 35 99994-7892 :)
+- 📫 contate-me pelo email arildohp@gmail.com ou whastapp 35 99994-7892 :)
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=arildohp&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arildohp&layout_icons=true&theme=highcontrast)
